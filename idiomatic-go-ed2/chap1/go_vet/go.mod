@@ -1,3 +1,3 @@
-module go_vet
+module vet
 
 go 1.25.0
